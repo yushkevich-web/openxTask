@@ -1,4 +1,4 @@
-## JavaScript Programm for OpenX that: 
+## JavaScript Program for OpenX that: 
 
 - Retrieves user, product and shopping cart data
 - Creates a data structure containing all available product categories and the total value of products of a given category
